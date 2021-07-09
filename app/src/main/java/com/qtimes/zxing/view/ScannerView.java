@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ansen.zxingtest.view;
+package com.qtimes.zxing.view;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -27,8 +27,8 @@ import android.graphics.Rect;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.ansen.zxingtest.R;
-import com.ansen.zxingtest.utils.ScreenUtil;
+import com.qtimes.zxing.R;
+import com.qtimes.zxing.utils.ScreenUtil;
 import com.google.zxing.ResultPoint;
 
 import java.util.HashMap;

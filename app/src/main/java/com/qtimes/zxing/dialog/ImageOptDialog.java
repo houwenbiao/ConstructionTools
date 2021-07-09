@@ -1,4 +1,4 @@
-package com.ansen.zxingtest.dialog;
+package com.qtimes.zxing.dialog;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.ansen.zxingtest.R;
+import com.qtimes.zxing.R;
 
 /**
  * @author apple

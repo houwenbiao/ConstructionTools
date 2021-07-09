@@ -1,4 +1,4 @@
-package com.ansen.zxingtest.activity;
+package com.qtimes.zxing.activity;
 
 import android.app.Activity;
 import android.content.Context;
@@ -36,9 +36,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.ansen.zxingtest.R;
-import com.ansen.zxingtest.camera.CameraManager;
-import com.ansen.zxingtest.view.ScannerView;
+import com.qtimes.zxing.R;
+import com.qtimes.zxing.camera.CameraManager;
+import com.qtimes.zxing.view.ScannerView;
 import com.google.zxing.BinaryBitmap;
 import com.google.zxing.ChecksumException;
 import com.google.zxing.DecodeHintType;

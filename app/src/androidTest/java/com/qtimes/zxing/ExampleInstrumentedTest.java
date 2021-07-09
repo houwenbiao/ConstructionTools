@@ -1,4 +1,4 @@
-package com.ansen.zxingtest;
+package com.qtimes.zxing;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

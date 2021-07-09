@@ -1,4 +1,4 @@
-package com.ansen.zxingtest.camera;
+package com.qtimes.zxing.camera;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.ansen.zxingtest"
+        applicationId "com.qtimes.zxing"
         minSdkVersion 25
         targetSdkVersion 30
         versionCode 1

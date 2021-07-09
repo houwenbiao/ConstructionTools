@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ansen.zxingtest.camera;
+package com.qtimes.zxing.camera;
 
 import android.annotation.SuppressLint;
 import android.graphics.Rect;

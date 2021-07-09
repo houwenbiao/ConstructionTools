@@ -1,4 +1,4 @@
-package com.ansen.zxingtest.activity;
+package com.qtimes.zxing.activity;
 
 import android.Manifest;
 import android.content.Intent;
@@ -20,11 +20,11 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.ansen.zxingtest.R;
-import com.ansen.zxingtest.camera.CreateQRBitmp;
-import com.ansen.zxingtest.dialog.ImageOptDialog;
-import com.ansen.zxingtest.utils.BitmapUtil;
-import com.ansen.zxingtest.utils.ImageUtil;
+import com.qtimes.zxing.R;
+import com.qtimes.zxing.camera.CreateQRBitmp;
+import com.qtimes.zxing.dialog.ImageOptDialog;
+import com.qtimes.zxing.utils.BitmapUtil;
+import com.qtimes.zxing.utils.ImageUtil;
 import com.qtimes.libzxing.zxing.activity.CaptureActivity;
 
 public class MainActivity extends AppCompatActivity {
